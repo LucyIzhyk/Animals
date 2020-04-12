@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.ConsoleUI.exe
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.ConsoleUI.deps.json
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.ConsoleUI.runtimeconfig.json
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.ConsoleUI.runtimeconfig.dev.json
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.ConsoleUI.dll
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.ConsoleUI.pdb
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.Entity.dll
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\bin\Debug\netcoreapp3.1\Animals.Entity.pdb
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\obj\Debug\netcoreapp3.1\Animals.ConsoleUI.csprojAssemblyReference.cache
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\obj\Debug\netcoreapp3.1\Animals.ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\obj\Debug\netcoreapp3.1\Animals.ConsoleUI.AssemblyInfo.cs
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\obj\Debug\netcoreapp3.1\Animals.ConsoleUI.csproj.CopyComplete
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\obj\Debug\netcoreapp3.1\Animals.ConsoleUI.dll
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.ConsoleUI\obj\Debug\netcoreapp3.1\Animals.ConsoleUI.pdb

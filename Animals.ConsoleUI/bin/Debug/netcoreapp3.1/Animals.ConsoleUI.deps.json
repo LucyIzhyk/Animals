@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Animals.ConsoleUI/1.0.0": {
+        "dependencies": {
+          "Animals.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Animals.ConsoleUI.dll": {}
+        }
+      },
+      "Animals.Entity/1.0.0": {
+        "runtime": {
+          "Animals.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Animals.ConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Animals.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

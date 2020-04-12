@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\bin\Debug\netstandard2.0\Animals.Entity.deps.json
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\bin\Debug\netstandard2.0\Animals.Entity.dll
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\bin\Debug\netstandard2.0\Animals.Entity.pdb
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\obj\Debug\netstandard2.0\Animals.Entity.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\obj\Debug\netstandard2.0\Animals.Entity.AssemblyInfo.cs
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\obj\Debug\netstandard2.0\Animals.Entity.dll
+C:\Users\1\source\repos\examples\AnimalsModel\AnimalsModel\obj\Debug\netstandard2.0\Animals.Entity.pdb
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\bin\Debug\netstandard2.0\Animals.Entity.deps.json
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\bin\Debug\netstandard2.0\Animals.Entity.dll
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\bin\Debug\netstandard2.0\Animals.Entity.pdb
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\obj\Debug\netstandard2.0\Animals.Entity.csprojAssemblyReference.cache
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\obj\Debug\netstandard2.0\Animals.Entity.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\obj\Debug\netstandard2.0\Animals.Entity.AssemblyInfo.cs
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\obj\Debug\netstandard2.0\Animals.Entity.dll
+C:\Users\1\source\repos\examples\AnimalsModel\Animals.Entity\obj\Debug\netstandard2.0\Animals.Entity.pdb

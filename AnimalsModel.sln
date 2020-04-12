@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.Entity", "Animals.Entity\Animals.Entity.csproj", "{FF10746B-485E-4F2C-9F6A-8D0ABE02E274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals.ConsoleUI", "Animals.ConsoleUI\Animals.ConsoleUI.csproj", "{A85A3FF7-9349-4B3E-8105-90537043B5B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF10746B-485E-4F2C-9F6A-8D0ABE02E274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF10746B-485E-4F2C-9F6A-8D0ABE02E274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF10746B-485E-4F2C-9F6A-8D0ABE02E274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF10746B-485E-4F2C-9F6A-8D0ABE02E274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85A3FF7-9349-4B3E-8105-90537043B5B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85A3FF7-9349-4B3E-8105-90537043B5B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85A3FF7-9349-4B3E-8105-90537043B5B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85A3FF7-9349-4B3E-8105-90537043B5B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03ADBC40-C55F-4F45-86F4-E6AB832DEEA6}
+	EndGlobalSection
+EndGlobal
